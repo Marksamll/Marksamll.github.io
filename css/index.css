@@ -1,0 +1,54 @@
+
+*{
+    font-size: 30px;
+}
+#sex{
+    color: greenyellow;
+    font-size: 35px;
+}
+#jump_pagexxx{
+    color: black;
+    font: size 35px;
+}
+.pagebackground{
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+}
+table,td{ 
+    border: 1px solid rebeccapurple;
+    color: green;
+}
+table{
+    width: 300px;
+    height: 400px;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
+.navigate{
+    top: 0px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 35px;
+    width:100%;
+    background-color: #303643;
+    overflow: hidden;
+    clear: both;
+}
+ul li{
+    margin: 0 15px;
+    color: #303643;
+    align-items: center;
+    float: left;
+    color: white;
+    font-size: 15px;
+}
+#float_icon{
+    height: 60px;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+}
