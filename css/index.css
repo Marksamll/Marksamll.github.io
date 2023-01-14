@@ -29,13 +29,14 @@ td{
     text-align: center;
 }
 .navigate{
+    right: 0px;
     top: 0px;
     display: flex;
     align-items: center;
     position: fixed;
     height: 35px;
     width:100%;
-    background-color: #303643;
+    background-color: rgb(224,206,196);
     overflow: hidden;
     clear: both;
 }
